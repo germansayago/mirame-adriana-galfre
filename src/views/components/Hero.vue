@@ -36,7 +36,7 @@
                                          class="mb-3 mb-sm-0 btn-outline-white"
                                          type="white"
                                          icon="fa fa-envelope">
-                                Contactame
+                                Escribime
                             </base-button>
                         </div>
                     </div>
