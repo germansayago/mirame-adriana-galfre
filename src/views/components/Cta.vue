@@ -18,7 +18,7 @@
                         <div class="col-lg-3 ml-lg-auto text-center">                            
                           <base-button
                             tag="a"
-                            href="https://www.creative-tim.com/product/vue-argon-design-system"
+                            href="./"
                             type="white"
                             class="btn-outline-white mb-3"
                             icon="fa fa-download"
