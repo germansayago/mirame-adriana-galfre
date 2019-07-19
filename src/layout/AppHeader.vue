@@ -20,21 +20,21 @@
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.facebook.com/adriana.galfre" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Like us on Facebook">
-                        <i class="fa fa-facebook-square"></i>
+                        <i class="fa fa-lg fa-facebook-square"></i>
                         <span class="nav-link-inner--text d-lg-none">Facebook</span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.instagram.com/adriana.galfre/"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Follow us on Instagram">
-                        <i class="fa fa-instagram"></i>
+                        <i class="fa fa-lg fa-instagram"></i>
                         <span class="nav-link-inner--text d-lg-none">Instagram</span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="mailto:adrigalfre@hotmail.com" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">
-                        <i class="fa fa-envelope"></i>
+                        <i class="fa fa-lg fa-envelope"></i>
                         <span class="nav-link-inner--text d-lg-none">Escribime</span>
                     </a>
                 </li>                
