@@ -13,16 +13,17 @@
                         </div>
                         <div class="col-lg-5">
                           <h3 class="text-white">Conseguí tu ejemplar</h3>
-                          <p class="lead text-white mt-3">Podes descargar un fragmento del libro de manera <span class="font-weight-bold text-yellow">gratuita</span> o adquiri tu ejemplar por un valor de <span class="font-weight-bold text-yellow">$400</span>. Enviamos a todo país.</p>
+                          <p class="lead text-white mt-3">Podes descargar un fragmento del libro de manera <span class="font-weight-bold text-yellow">gratuita</span> o adquirí tu ejemplar por un valor de <span class="font-weight-bold text-yellow">$400</span>. Enviamos a todo país.</p>
                         </div>
                         <div class="col-lg-3 ml-lg-auto text-center">                            
                           <base-button
                             tag="a"
-                            href="./"
+                            href="https://drive.google.com/open?id=1LJiIolIsN-2EquxxwiaxGQTdFySTj0g0"
                             type="white"
                             class="btn-outline-white mb-3"
                             icon="fa fa-download"
-                            block size="lg">
+                            block size="lg"
+                            target="_blank">
                               Descargar
                           </base-button>
                           <base-button 

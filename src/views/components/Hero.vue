@@ -32,7 +32,7 @@
                                 Conseguí tu ejemplar
                             </base-button>
                             <base-button tag="a"
-                                         href="mailto:adrianagalfre@gmail.com"
+                                         href="mailto:adrigalfre@hotmail.com"
                                          class="mb-3 mb-sm-0 btn-outline-white"
                                          type="white"
                                          icon="fa fa-envelope">

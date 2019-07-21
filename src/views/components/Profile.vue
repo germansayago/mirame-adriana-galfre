@@ -17,7 +17,7 @@
                       <p>En el año 2006, culmina la Maestría en Neuropsicología en la Facultad de Psicología y tres años más tarde (2009) se recibe de Licenciada en Kinesiología y Fisioterapia en la misma Universidad.</p>
                       <p class="mb-4">Actualmente, se desempeña como docente de la carrera de Psicomotricidad de la Universidad Provincial de Córdoba, en la cátedra de Neuropsicología del Desarrollo.</p>
                       
-                      <a href="mailto:adrianagalfre@gmail.com" class="text-primary mt-5">Escribime <i class="fa fa-fw fa-pencil"></i></a>
+                      <a href="mailto:adrigalfre@hotmail.com" class="text-primary mt-5">Escribime <i class="fa fa-fw fa-pencil"></i></a>
                   </div>
               </div>
           </div>
