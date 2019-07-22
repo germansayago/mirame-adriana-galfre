@@ -4,7 +4,7 @@
       <div class="container">
           <div class="row row-grid align-items-center">
               <div class="col-md-6 order-md-2">
-                  <img src="img/theme/fotos-mirame.png" class="img-fluid floating">
+                  <img src="img/theme/fotos-mirame.png" alt="fotos" class="img-fluid floating">
               </div>
               <div class="col-md-6 order-md-1">
                   <div class="pr-md-5">                      

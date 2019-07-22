@@ -5,8 +5,7 @@
           <div class="row row-grid align-items-center">
               <div class="col-md-5">
                   <div class="card bg-default shadow border-0">
-                      <img v-lazy="'img/theme/adriana-galfre.jpg'" class="card-img-top">
-                      
+                      <img v-lazy="'img/theme/adriana-galfre.jpg'" alt="adriana galfré" class="card-img-top">                      
                   </div>
               </div>
               <div class="col-md-7">

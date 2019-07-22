@@ -9,7 +9,7 @@
                 <div class="p-5">
                     <div class="row align-items-center">
                         <div class="col-lg-3">
-                          <img src="img/theme/book-1.png" class="img-fluid">
+                          <img src="img/theme/book-1.png" alt="book mirame" class="img-fluid">
                         </div>
                         <div class="col-lg-5">
                           <h3 class="text-white">Conseguí tu ejemplar</h3>
@@ -23,7 +23,8 @@
                             class="btn-outline-white mb-3"
                             icon="fa fa-download"
                             block size="lg"
-                            target="_blank">
+                            target="_blank"
+                            rel="noopener">
                               Descargar
                           </base-button>
                           <base-button 
@@ -33,7 +34,8 @@
                             type="warning"
                             icon="fa fa-shopping-cart"
                             block size="lg"
-                            target="_blank">
+                            target="_blank"
+                            rel="noopener">
                               Comprar
                           </base-button>                          
                         </div>

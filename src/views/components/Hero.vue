@@ -17,7 +17,7 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-md-6 col-lg-5 pb-5 text-center text-md-left">
                         
-                        <img src="img/brand/white.png" style="width: 200px;" class="img-fluid">
+                        <img src="img/brand/white.png" alt="logo" style="width: 200px;" class="img-fluid">
 
                         <p class="lead text-white">Terapia asistida por animales en niños con parálisis cerebral</p>
                         <p class="text-white mb-5">de Adriana Miriam Galfré</p>
@@ -28,7 +28,8 @@
                                          class="mb-3 mb-sm-0"
                                          type="warning"
                                          icon="fa fa-shopping-cart"
-                                         target="_blank">
+                                         target="_blank"
+                                         rel="noopener">
                                 Conseguí tu ejemplar
                             </base-button>
                             <base-button tag="a"
@@ -42,7 +43,7 @@
                     </div>
                     <div class="col-md-6 col-lg-7">
                         <div class="my-3 my-sm-0">
-                            <img src="img/theme/book-1.png" class="img-fluid">
+                            <img src="img/theme/book-1.png" alt="book mirame" class="img-fluid">
                         </div>
                     </div>
                 </div>               
