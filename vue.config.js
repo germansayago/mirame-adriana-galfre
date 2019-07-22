@@ -13,7 +13,7 @@ module.exports = {
     name: 'Mirame, de Adriana Galfre',
     themeColor: '#172b4d',
     msTileColor: '#172b4d',
-    appleMobileWebAppCapable: 'no',
+    appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: '#172b4d'
   },
   css: {
