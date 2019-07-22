@@ -10,10 +10,10 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'Mirame, de Adriana Galfrre',
+    name: 'Mirame, de Adriana Galfre',
     themeColor: '#172b4d',
     msTileColor: '#172b4d',
-    appleMobileWebAppCapable: 'yes',
+    appleMobileWebAppCapable: 'no',
     appleMobileWebAppStatusBarStyle: '#172b4d'
   },
   css: {
