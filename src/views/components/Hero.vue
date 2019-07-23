@@ -24,7 +24,7 @@
                         
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=452178703-7942a0d2-9686-4ee5-9e7a-3e3ea2d838a7"
+                                         href="https://www.mercadopago.com/mla/checkout/pay?pref_id=452178703-7942a0d2-9686-4ee5-9e7a-3e3ea2d838a7"
                                          class="mb-3 mb-sm-0"
                                          type="warning"
                                          icon="fa fa-shopping-cart"
