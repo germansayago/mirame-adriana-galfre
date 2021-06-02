@@ -15,33 +15,23 @@
         <div class="container shape-container d-flex align-items-center">
             <div class="col px-0">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-md-6 col-lg-5 pb-5 text-center text-md-left">
-                        
-                        <img src="img/brand/white.png" alt="logo" style="width: 200px;" class="img-fluid">
+                    <div class="col-md-6 col-lg-7 pb-5 text-center text-md-left">
 
-                        <p class="lead text-white">Terapia asistida por animales en niños con parálisis cerebral</p>
-                        <p class="text-white mb-5">de Adriana Miriam Galfré</p>
+                        <h2 class="text-white">¿Que impacto podría tener sobre la salud humana el estímulo de una mascota?</h2>
+
+                        <p class="lead text-white">La Lic. Adriana Miriam Galfré, expone su trabajo desde una mirada neuropsicológica donde la comunicación humano-animal podría ser un instrumento valioso en niños con problemas motrices severos</p>
                         
                         <div class="btn-wrapper">
-                            <base-button tag="a"
-                                         href="https://www.mercadopago.com/mla/checkout/pay?pref_id=452178703-7942a0d2-9686-4ee5-9e7a-3e3ea2d838a7"
-                                         class="mb-3 mb-sm-0"
-                                         type="warning"
-                                         icon="fa fa-shopping-cart"
-                                         target="_blank"
-                                         rel="noopener">
-                                Conseguí tu ejemplar
-                            </base-button>
-                            <base-button tag="a"
-                                         href="mailto:adrigalfre@hotmail.com"
-                                         class="mb-3 mb-sm-0 btn-outline-white"
-                                         type="white"
-                                         icon="fa fa-envelope">
-                                Escribime
-                            </base-button>
+                            <router-link
+                                to="/descarga"
+                                class="btn btn-lg btn-warning mb-3 mb-sm-0"
+                                icon="fa fa-download"
+                                >
+                                Descarga el libro gratis
+                            </router-link>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-7">
+                    <div class="col-md-6 col-lg-5">
                         <div class="my-3 my-sm-0">
                             <img src="img/theme/book-1.png" alt="book mirame" class="img-fluid">
                         </div>

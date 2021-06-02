@@ -1,8 +1,8 @@
 <template>
     <div>
         <hero></hero>
-        <prologue></prologue>
-        <cta></cta>
+        <!-- <prologue></prologue> -->
+        <!-- <cta></cta> -->
         <profile></profile>
     </div>
 </template>
