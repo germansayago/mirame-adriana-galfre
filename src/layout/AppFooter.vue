@@ -17,7 +17,7 @@
                             <a href="https://www.instagram.com/adriana.galfre/" class="nav-link" target="_blank" rel="noopener">instagram</a>
                         </li>
                         <li class="nav-item">
-                            <a href="mailto:adrigalfre@hotmail.com" class="nav-link" target="_blank" rel="noopener">contacto</a>
+                            <a href="mailto:adrianagalfre@gmail.com" class="nav-link" target="_blank" rel="noopener">contacto</a>
                         </li>
                     </ul>
                 </div>
