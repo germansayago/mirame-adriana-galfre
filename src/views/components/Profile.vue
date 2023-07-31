@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="section bg-secondary">
-      <div class="container">
+      <div class="container py-5">
           <div class="row row-grid align-items-center">
               <div class="col-md-5">
                   <div class="card bg-default shadow border-0">

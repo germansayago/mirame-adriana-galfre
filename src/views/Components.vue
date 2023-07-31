@@ -1,24 +1,24 @@
 <template>
     <div>
         <hero></hero>
-        <!-- <prologue></prologue> -->
-        <!-- <cta></cta> -->
+        <Multimedia></Multimedia>
         <profile></profile>
+        <cta></cta>
     </div>
 </template>
 <script>
 import Hero from "./components/Hero";
 import Profile from "./components/Profile";
-import Prologue from "./components/Prologue";
 import Cta from "./components/Cta";
+import Multimedia from "./components/Multimedia.vue";
 
 export default {
   name: "components",
   components: {
     Hero,
     Profile,
-    Prologue,
-    Cta
-  }
+    Cta,
+    Multimedia
+}
 };
 </script>
